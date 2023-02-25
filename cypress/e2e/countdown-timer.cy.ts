@@ -18,6 +18,8 @@
       verifyRacesTime(2,3);
       verifyRacesTime(3,4);
       verifyRacesTime(4,5);
+      verifyRacesTime(4,5);
+      
      
     });
   });
